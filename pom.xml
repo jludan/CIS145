@@ -24,7 +24,7 @@
   </dependencies>
 
   <build>
-    <finalName>ServletCountThrees</finalName>
+    <finalName>CountThreesJava</finalName>
   </build>
 
 </project>
